@@ -1,0 +1,19 @@
+{
+  "name": "webpack-preprocess-typescript-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter Bakonyi <peter.bakonyi05@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-typescript-loader": "^2.2.1",
+    "preprocess-loader": "^0.2.0",
+    "typescript": "^2.0.0",
+    "webpack": "2.1.0-beta.22"
+  }
+}
